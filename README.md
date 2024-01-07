@@ -1,4 +1,4 @@
 # Demo-repository
 My first Repository
 <br>
-Author - Mureed Hussain
+Author - Mureed Hussain (BCIT)
